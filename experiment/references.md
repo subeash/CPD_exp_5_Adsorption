@@ -6,7 +6,7 @@
 - William L.Luyben, Process Modeling Simulation and Control For Chemical Engineers, McGraw-Hill International Editions (1990).
 
 #### NPTL(National Programme on Technology Enhanced Learning)
-- [Adsorption](https://nptel.ac.in/courses/103103037/3))
+- [Adsorption](https://nptel.ac.in/courses/103103037/3)
 
 
 
