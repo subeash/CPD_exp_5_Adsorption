@@ -7,7 +7,7 @@
 <b>Discipline | <b> Chemical Engineering
 :--|:--|
 <b> Lab | <b> **Chemical Process Dynamics Laboratory**
-<b> Experiment|     <b> ** Adsorption**
+<b> Experiment|     <b> **Adsorption**
 
 
 ### About the Experiment 
