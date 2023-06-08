@@ -2,12 +2,12 @@
   "version": 2.0,
   "questions": [
     {
-      "question": " An arrangement as in your experiment is at steady state, what will happen if you decrease the input flow rate?",
+      "question": " How is the breakthrough concentration defined for adsorption in a packed bed?",
       "answers": {
-        "a": "The fluid level in tank decreases continuously",
-        "b": "The fluid level in tank increases continuously",
-        "c": "The fluid level in tank decreases and then becomes constant",
-        "d": "The fluid level in tank increases and then becomes constant"
+        "a": " It is the minimum detectable or maximum allowable concentration in the effluent from the bed.",
+        "b": "It is approximately half of the solute concentration in the feed",
+        "c": "It is the maximum solute concentration in the effluent.",
+        "d": "None of the above"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -19,12 +19,12 @@
       "difficulty": "beginner"
     },
     {
-      "question": "An arrangement as in your experiment is at steady state, what will happen if you increase the input first and then increase the output flow rate but by the same amount?",
+      "question": "The length of the unused bed is more if the mass transfer zone is:",
       "answers": {
-        "a": "The height first increases and then decreases and reaches to it's original value",
-        "b": "The height first increases and then becomes constant but is more than the previous steady state's value",
-        "c": "The height first decreases and then increases and reaches to it's original value",
-        "d": "The height first decreases and then becomes constant but is less than the previous steady states value"
+        "a": "Wide",
+        "b": "Narrow",
+        "c": "Asymmetric",
+        "d": "None of the above"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -32,16 +32,16 @@
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
-      "correctAnswer": "b",
+      "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
-      "question": " The steady state value of the height obtained as done practically is different from that calculated from equations with certain assumptions because",
+      "question": " A packed bed has a bulk density of 510 kg/m3, and the particles have a density of 770 kg/m3. The bed porosity is:",
       "answers": {
-        "a": "The value of inflow is not exactly equal to the value of the outflow",
-        "b": "There are fluctuations in the value of the inflow",
-        "c": "There is a problem of meniscus of the fluid which leads to misjudgement of the value obtained",
-        "d": "ALL of the above"
+        "a": " 66%",
+        "b": "51%",
+        "c": "34%",
+        "d": "10%"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -49,15 +49,15 @@
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
-      "correctAnswer": "d",
+      "correctAnswer": "c",
       "difficulty": "beginner"
     },
        {
-      "question": " The work of a rotameter is to measure the",
+      "question": " What is the major use of carbon molecular sieve (CMS)?",
       "answers": {
-        "a": "Volumetric flow rate",
-        "b": "Mass flow rate",
-        "c": "Velocity",
+        "a": "Separation of lower hydrocarbons",
+        "b": "Adsorption of organics from drinking water",
+        "c": "Separation of organics from drinking water",
         "d": "None of these"
       },
       "explanations": {
@@ -66,16 +66,33 @@
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+     {
+      "question": " Adsorption capacity of a regenerated bed compared to the fresh bed is generally",
+      "answers": {
+        "a": "Slightly less",
+        "b": "Slightly more",
+        "c": "Half of that of the fresh bed after the first regeneration",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
      {
-      "question": " At steady tank and coil arrangement as in the experiment, if the tank inlet temperature is increased then the coil outlet temperature:",
+      "question": "How does the depth of mass transfer zone change with increasing selectivity coefficient KAB for mono-monovalent ion exchange?",
       "answers": {
-        "a": "Increases continuously above the previous steady state value",
-        "b": "Increases and then becomes constant above the previous steady state valuee",
-        "c": "Decreases continuously below the previous steady state value",
-        "d": "Decreases and then becomes a constant below the previous steady state value"
+        "a": "Increases",
+        "b": "Decreases",
+        "c": "Remains almost the same",
+        "d": "None"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -86,13 +103,13 @@
       "correctAnswer": "b",
       "difficulty": "beginner"
     },
-     {
-      "question": "At steady tank and coil arrangement as in the experiment, if the coil inlet temperature is decreased then the tank outlet temperature:",
+    {
+      "question": " If the adsorption rate of the solute is infinitely fast and irreversible, the thickness of the Mass Transfer Zone would be",
       "answers": {
-        "a": "Increases continuously above the previous steady state value",
-        "b": "Increases and then becomes constant above the previous steady state valuee",
-        "c": "Decreases continuously below the previous steady state value",
-        "d": "Decreases and then becomes a constant below the previous steady state value"
+        "a": "Very large",
+        "b": "About half of the bed length",
+        "c": "Zero",
+        "d": "None"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -100,7 +117,41 @@
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
-      "correctAnswer": "b",
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+     {
+      "question": " If the mass transfer resistance is very small, the breakthrough line is:",
+      "answers": {
+        "a": "Vertical line",
+        "b": "Horizontal line",
+        "c": "A line of unit slope",
+        "d": "Variable"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+     {
+      "question": " If the saturated zone of a bed expands at a rate u` (m/h) and the stoichiometric front moves at a constant velocity us (m/h), then",
+      "answers": {
+        "a": "u`= us",
+        "b": "u` > us",
+        "c": "u` < us",
+        "d": "It depends on condition"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]
