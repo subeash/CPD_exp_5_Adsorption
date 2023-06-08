@@ -11,15 +11,15 @@ The Freundlich Adsorption Isotherm is mathematically expressed as
 
 $$\frac{x}{m}=Kp^\frac{1}{n}$$
 It is also written as
-$$log 9\frac{x}{m})=logk+(1/n)logp$$
+$$log (\frac{x}{m})=logk+(1/n)logp$$
 $$or \ \frac{x}{m}=Kc^ \frac{1}{n}$$
 It is also written as
 $$log(\frac{x}{m})=logk+(\frac{1}{n})logc$$
 Where
-x = mass of adsorbate
-m = mass of adsorbent
-p = Equilibrium pressure of adsorbate
-c = Equilibrium concentration of adsorbate in solution
+x = mass of adsorbate <br>
+m = mass of adsorbent <br>
+p = Equilibrium pressure of adsorbate <br>
+c = Equilibrium concentration of adsorbate in solution <br>
 
  K and n are constants for a given adsorbate and adsorbent at a particular temperature. At high pressure 1/n = 0 Hence extent of adsorption is independent of pressure but at high pressure it is dependent on pressure.<br>
 
