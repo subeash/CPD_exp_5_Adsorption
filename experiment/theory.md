@@ -1,21 +1,27 @@
 ## Inroduction 
 
-**Heat**
-
-Heat can be defined as the transfer of energy across the boundary of a system due to a temperature difference between the system and its surroundings. Heat should not be confused with internal energy which is essentially all the energy of a system that is associated with its atoms and molecules - when viewed from a reference frame at rest with respect to the object. It's important to understand the fact that internal energy can undergo a change even when there is no transfer of heat. Consider an adiabatic vessel with a movable lid-pulling the lid, in such a manner that the volume of vessel expands, results in cooling and consequent decrease of internal energy even though there was no transfer of heat from surroundings.
+Adsorption is the adhesion of atoms, ions, molecules of gas, liquid, or dissolved solids to a surface. This process creates a film of the adsorbate (the molecules or atoms being accumulated) on the surface of the adsorbent. It differs from absorption, in which a fluidpermeates or is dissolved by a liquid or solid. The term sorption encompasses both processes, while desorption is the reverse of adsorption. It is a surface phenomenon. Similar to surface tension, adsorption is a consequence of surface energy. In a bulk material, all the bonding requirements (be they ionic,covalent, or metallic) of the constituent atoms of the material are filled by other atoms in the material. However, atoms on the surface of the adsorbent are not wholly surrounded by other adsorbent atoms and therefore can attract adsorbates. The exact nature of the bonding depends on the details of the species involved, but the adsorption process is generally classified as physisorption (characteristic of weak van der Waals forces) or chemisorption (characteristic of covalent bonding). It may also occur due to electrostatic attraction.
            
+**Isotherms:** Adsorption is usually described through isotherms, that is, the amount of adsorbate on the adsorbent as a function of its pressure (if gas) or concentration (if liquid) at constant temperature. The quantity adsorbed is nearly always normalized by the mass of the adsorbent to allow comparison of different materials. There are basically two well established types of adsorption isotherm: the Freundlich adsorption isotherm and the Langmuir adsorption isotherm.
 
-## 1. Modes of Heat Transfer
-Transfer of heat can take place through three different mechanisms
-### 1.1 Conduction
+**Freundlich Isotherm:**
+The Freundlich equation or Freundlich adsorption isotherm is an adsorption isotherm, which is a curve relating the concentration of a solute on the surface of an adsorbent, to the concentration of the solute in the liquid with which it is in contact. In 1909, Freundlich gave an empirical expression representing the isothermal variation of Adsorption of a quantity of gas adsorbed by unit mass of solid adsorbent with pressure. This equation is known as Freundlich Adsorption Isotherm or Freundlich Adsorption equation.
 
-Conduction can be understood as a process in which energy transfer occurs from a more energetic body to a less energetic process primarily due to collisions between them. Conduction takes only when there is a temperature difference between two parts of the conducting medium. Let's explore the dependence of the conduction rate with change in temperature. Consider a thin plate of thickness `Delta x` and cross sectional area A. Let the temperature of thickness at one face be and at the opposite face be . It has been experimentally found that heat flow will take place between the two faces. If the time interval is `Delta T` and the heat flow `Delta Q`, then it has been found that `(Delta Q)/(Delta T)=k(Delta T)/(Delta x)`
- ### 1.2 Convection               
-Unlike conduction, convection involves bulk transport of fluids from one place to another which consequently results in exchange of heat from the hotter to colder substance. In brief, the heat energy transferred due to movement of a heated substance is convection. Land and sea breezes are a good example of the phenomenon of convection. During the night, the land cools faster due to poor conductivity of land. This leads to differential heating of the air above land and water. The air above seas is hotter. Since hot air is lighter, it rises up resulting in cool breezes from the land blowing in above seas and the hot air being transported to land resulting in warm night breezes. The reverse process is repeated during the day. This entire phenomenon is based on convection currents and is an example of natural convection. Natural convection is essentially due to the difference in the densities of the fluids which results in their subsequent motion. When fluids are made to move due to some external forces such as a fan or a blower as the case maybe, then it's called forced convection.
- 
-<img src="images/convection.jpg"  style="width:500px;height:400px;"/>
-				
-<p>Figure 1.1 Convection Currents</p>
-                           
- ### 1.3 Radiation    
- Radiation heat exchange between two bodies at different temperatures always results in a net transfer of heat energy from the body at a higher temperature to the other at a lower temperature.Heat transfer by radiation is important role in many heating and cooling operation and equipment such as operation of a furnace ,thermal cracking, various types of kilns etc.Radiation heat loss from a process equipment becomes significant when its temperature is considerably different from that of the ambient. Therefore process of radiation is necessary for thermal calculation in a varity of physical situation. Thermal radiation is the emission of electromagnetic waves from all matter that has a temperature greater than absolute zero.Thermal radiation incident on a body tends to increase its temperature .Its depending upon the nature of the material constituting the body and its surface characteristics ,the incident radiation may be absorbed,reflected, or transmitted, partly or fully.
+The Freundlich Adsorption Isotherm is mathematically expressed as
+
+$$\frac{x}{m}=Kp^\frac{1}{n}$$
+It is also written as
+$$log 9\frac{x}{m})=logk+(1/n)logp$$
+$$or \ \frac{x}{m}=Kc^ \frac{1}{n}$$
+It is also written as
+$$log(\frac{x}{m})=logk+(\frac{1}{n})logc$$
+Where
+x = mass of adsorbate
+m = mass of adsorbent
+p = Equilibrium pressure of adsorbate
+c = Equilibrium concentration of adsorbate in solution
+
+ K and n are constants for a given adsorbate and adsorbent at a particular temperature. At high pressure 1/n = 0 Hence extent of adsorption is independent of pressure but at high pressure it is dependent on pressure.<br>
+
+There are some limitations of Freundlich adsorption isotherm. Experimentally it was determined that extent of adsorption varies directly with pressure till saturation pressure Ps is reached. Beyond that point rate of adsorption saturates even after applying higher pressure. Thus Freundlich Adsorption Isotherm failed at higher pressure.
+                            
